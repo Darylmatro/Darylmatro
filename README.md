@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Daryl 👋<br>🔭 Actuellement en 2éme année de Bachelor informatique.<br>🌱 J'apprends actuellement Angular.<br>🔍 Je suis à la recherche d'un Stage/alternance dans e développement Web.
+Hi, I'm Daryl 👋<br>🔭 Actuellement en 3éme année de Bachelor informatique.<br>🌱 J'apprends actuellement Angular.<br>🔍 Je suis à la recherche d'un Stage/alternance dans e développement Web.
 
 
 ## 🌐 Socials:
